@@ -1,0 +1,53 @@
+[
+  {
+    "source": "quiver",
+    "filing_date": "2025-08-10",
+    "trade_date": "2025-08-01",
+    "member_name": "Jane Doe",
+    "chamber": "Senate",
+    "party": "I",
+    "committees": "Armed Services",
+    "ticker": "KVYO",
+    "company": "Klaviyo Inc",
+    "sector": "Software",
+    "market_cap_m": 8500,
+    "adv_m": 75,
+    "transaction_type": "Buy",
+    "amount_range": "$100k\u2013$250k",
+    "est_amount": 175000
+  },
+  {
+    "source": "quiver",
+    "filing_date": "2025-08-10",
+    "trade_date": "2025-07-25",
+    "member_name": "Alex Lee",
+    "chamber": "House",
+    "party": "D",
+    "committees": "Health",
+    "ticker": "SRPT",
+    "company": "Sarepta Therapeutics",
+    "sector": "Biotech",
+    "market_cap_m": 13000,
+    "adv_m": 120,
+    "transaction_type": "Buy",
+    "amount_range": "$250k\u2013$500k",
+    "est_amount": 300000
+  },
+  {
+    "source": "quiver",
+    "filing_date": "2025-08-11",
+    "trade_date": "2025-07-30",
+    "member_name": "John Smith",
+    "chamber": "House",
+    "party": "R",
+    "committees": "Energy & Commerce",
+    "ticker": "FSLR",
+    "company": "First Solar",
+    "sector": "Renewables",
+    "market_cap_m": 25000,
+    "adv_m": 200,
+    "transaction_type": "Buy",
+    "amount_range": "$50k\u2013$100k",
+    "est_amount": 75000
+  }
+]

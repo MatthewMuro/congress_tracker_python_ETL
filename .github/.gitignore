@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# venv
+.venv/
+
+# local env & secrets
+.env
+.env.*
+
+# local db/data
+data/
+*.db
+
+# VS Code
+.vscode/
