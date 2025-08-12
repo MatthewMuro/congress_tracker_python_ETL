@@ -4,3 +4,5 @@ pandas==2.2.2
 numpy==1.26.4
 slack_sdk==3.27.1
 quiverquant
+yfinance
+
