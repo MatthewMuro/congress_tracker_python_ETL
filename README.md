@@ -1,4 +1,4 @@
-# Congressional Trade Tracker — Option C (Python ETL)
+# Congressional Trade Tracker
 
 A small, production-ready pipeline to ingest Congressional STOCK Act disclosures from APIs (e.g., QuiverQuant / Unusual Whales), 
 normalize & store them in SQLite, compute a composite **Signal Score**, and send **Slack alerts** for the best ideas.
